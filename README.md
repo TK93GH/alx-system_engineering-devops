@@ -1,1 +1,3 @@
-**This is a mandatory file in all ALX School projects**
+**System Engineering DevOps**
+
+This project automate some commands from the Linux terminal.
